@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Projects 
+Thanks for taking the time to visit my Github.
+
+Here's a brief roadmap of the projects in my repo:
 1. Muffin Clicker
     a. This was my first project I ever made to start learning programming. This project is a game where you keep track of the number of times players click on the muffin in the center of the game. 
     b. This game was made in C#.
