@@ -9,4 +9,5 @@ Note: both projects are still a work in progress.
 2. Master's Thesis: Procedural Animations Using Full Body Inverse Kinematics
 
 LinkedIn:  https://www.linkedin.com/in/oakkarwin/
+
 Portfolio: https://oakkarwin.wixsite.com/oakkarwin
