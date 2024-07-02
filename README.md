@@ -3,7 +3,8 @@
 Thanks for taking the time to visit my GitHub.
 
 All the work I've done throughout my Master's program is located in 'GuildhallSdProjects'. 
-Note that some projects use the fbxsdk which I did NOT upload to GitHub. The projects will work if you add the fbxsdk to engine/thirdparty
+
+Note that some projects use the fbxsdk which I did NOT upload to GitHub. You can get it using this link: https://aps.autodesk.com/developer/overview/fbx-sdk. The projects will work if you add the fbxsdk to engine/thirdparty.
 
 GuildhallSdProjects includes all the work I've done throughout my Master's program. I'd recommend checking out:
    1. Oak Game Engine (C++).
