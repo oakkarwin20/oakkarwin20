@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-Thanks for taking the time to visit my Github.
+Thanks for taking the time to visit my GitHub.
 
-Here's a brief roadmap of the projects in my repo:
-Note: both projects are still a work in progress.
-
-1. Oak Game Engine (C++)
-2. Master's Thesis: Procedural Animations Using Full Body Inverse Kinematics
+All the work I've done throughout my Master's program is located in 'GuildhallSdProjects'. The projects I'd recommend checking out are:
+   1. Oak Game Engine (C++)
+   2. Skeletal Playground: Consisting of a skeletal animation pipeline and my Master's Thesis: Procedural Animations Using Full Body Inverse Kinematics
 
 LinkedIn:  https://www.linkedin.com/in/oakkarwin/
-
 Portfolio: https://oakkarwin.wixsite.com/oakkarwin
